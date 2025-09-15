@@ -7,6 +7,14 @@
     "verification": "https://youtu.be/FP7uODDJLz4?si=EVdMEJquytLkCHEt",
     "percentToQualify": 50,
     "password": "Not Copyable",
-    "records": [
+    "records": [           
+                {
+            "user": "zpds",
+            "link": "https://youtu.be/Ah5ZIAtLmFQ",
+            "percent": 100,
+            "fps": 240
+
+        }
     ]
+    
 }
