@@ -1,0 +1,19 @@
+{
+    "id": 107033256,
+    "name": "Milo challenge",
+    "author": "Leahpvp",
+    "creators": ["Leahpvp"],
+    "verifier": "Milo",
+    "verification": "https://www.youtube.com/watch?v=_3MEpH4L37I",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+                        {
+            "user": "Leahpvp",
+            "link": "https://medal.tv/games/geometry-dash/clips/kZOM2d9qa8YemMQOc?invite=cr-MSxWckYsMzcyMTExMTAx",
+            "percent": 100,
+            "fps": 480
+
+        }
+    ]
+}
