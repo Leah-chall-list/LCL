@@ -1,6 +1,6 @@
 {
     "id": 124901304,
-    "name": "Yeah bro?",
+    "name": "UwU and OwO",
     "author": "Leahpvp",
     "creators": ["Leahpvp"],
     "verifier": "Leahpvp",
@@ -8,5 +8,12 @@
     "percentToQualify": 42,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "Mnmflurry",
+            "link": "https://medal.tv/games/geometry-dash/clips/kZOM2d9qa8YemMQOc?invite=cr-MSxWckYsMzcyMTExMTAx",
+            "percent": 100,
+            "fps": 480
+
+        }
     ]
 }
