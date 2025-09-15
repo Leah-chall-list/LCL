@@ -1,10 +1,10 @@
 {
-    "id": 124901304,
+    "id": 124509478,
     "name": "SpaceWYA challenge",
     "author": "Leahpvp",
     "creators": ["Leahpvp"],
     "verifier": "Spacewya",
-    "verification": "https://youtu.be/FP7uODDJLz4?si=EVdMEJquytLkCHEt",
+    "verification": "https://youtu.be/FVQwckW0iCE?si=NUeCg_DICkySM0W6",
     "percentToQualify": 70,
     "password": "Not Copyable",
     "records": [
@@ -17,9 +17,9 @@
         },
                         {
             "user": "Leahpvp",
-            "link": "https://medal.tv/games/geometry-dash/clips/kZOM2d9qa8YemMQOc?invite=cr-MSxWckYsMzcyMTExMTAx",
+            "link": "https://youtu.be/FVQwckW0iCE?si=NUeCg_DICkySM0W6",
             "percent": 100,
-            "fps": 480
+            "fps": 240
 
         }
     ]
