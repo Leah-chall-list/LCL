@@ -1,27 +1,32 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Leahpvp",
+        "link": "https://www.youtube.com/@Leahpvp"
+    },
+        {
+        "role": "owner",
+        "name": "Zpdss",
+        "link": "https://www.youtube.com/@Leahpvp"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Mnmflurry",
+        "link": "https://www.youtube.com/@Mnmflurry"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Mnmflurry",
+        "link": "https://www.youtube.com/@Mnmflurry"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Mnmflurry",
+        "link": "https://www.youtube.com/@Mnmflurry"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Leahpvp",
+        "link": "https://www.youtube.com/@Leahpvp"
     }
 ]
