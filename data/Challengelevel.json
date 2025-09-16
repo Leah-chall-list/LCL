@@ -8,5 +8,9 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+                {"user": "test2",
+            "link": "none",
+        "percent": 100,
+        "fps": 240}
     ]
 }
