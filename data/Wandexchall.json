@@ -14,6 +14,13 @@
             "percent": 100,
             "fps": 480
 
+        },                     
+         {
+            "user": "Test1",
+            "link": "None",
+            "percent": 100,
+            "fps": 240
+
         }
     ]
 }
