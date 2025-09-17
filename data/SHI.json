@@ -8,5 +8,19 @@
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
+                                                {
+            "user": "Mnmflurry",
+            "link": "https://youtu.be/FVQwckW0iCE?si=NUeCg_DICkySM0W6",
+            "percent": 100,
+            "fps": 480
+
+        },
+                                {
+            "user": "Zpds",
+            "link": "https://medal.tv/games/geometry-dash/clips/kZOM2d9qa8YemMQOc?invite=cr-MSxWckYsMzcyMTExMTAx",
+            "percent": 100,
+            "fps": 240
+
+        }
     ]
 }
