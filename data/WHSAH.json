@@ -8,11 +8,6 @@
     "percentToQualify": 40,
     "password": "Not Copyable",
     "records": [              
-                    { 
-                        "user": "this is a test i wanna see what happens when i make the name super long abbabbabbabbabbabbaabbababbabbabbabbabbabbabbabbab okay im done",
-                        "link": "no link :)",
-                        "percent": 100000000,
-                        "fps": 100000000
-                    }     
+
     ]
 }
