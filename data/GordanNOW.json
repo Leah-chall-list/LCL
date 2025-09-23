@@ -8,5 +8,12 @@
     "percentToQualify": 19,
     "password": "Not Copyable",
     "records": [
+                                        {
+            "user": "friedappel",
+            "link": "https://www.youtube.com/watch?v=m0-U4PVsaTQ",
+            "percent": 100,
+            "fps": 240
+
+        }
     ]
 }

@@ -8,5 +8,12 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+                                        {
+            "user": "bonnieischill",
+            "link": "https://www.youtube.com/watch?v=KSLhZR_KYh0",
+            "percent": 100,
+            "fps": 240
+
+        }
     ]
 }
