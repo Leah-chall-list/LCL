@@ -1,0 +1,24 @@
+{
+    "id": 124766175,
+    "name": "Bad apple challenge",
+    "author": "Leahpvp",
+    "creators": ["Leahpvp"],
+    "verifier": "Leahpvp",
+    "verification": "https://youtu.be/eHEXGyfKQgY",
+    "percentToQualify": 59,
+    "password": "Not Copyable",
+    "records": [
+                {
+            "user": "Mnmflurry",
+            "link": "",
+            "percent": 100,
+            "fps": 480
+        },
+                        {
+            "user": "Zpds",
+            "link": "",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}
