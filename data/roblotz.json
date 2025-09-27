@@ -1,12 +1,19 @@
 {
     "id": 125940783,
     "name": "Roblotz challenge",
-    "author": "Leahpvp",
+    "author": "Zpds",
     "creators": ["Twentyfour"],
     "verifier": "Zpds",
     "verification": "https://youtu.be/FP7uODDJLz4?si=EVdMEJquytLkCHEt",
     "percentToQualify": 57,
     "password": "Not Copyable",
     "records": [
+                                                {
+            "user": "Leahpvp",
+            "link": "https://medal.tv/games/geometry-dash/clips/l6s8mNBEudfVAy5EL?invite=cr-MSxRTWgsMjA3MjU4MzMz&v=7",
+            "percent": 100,
+            "fps": 240
+
+        }
     ]
 }
