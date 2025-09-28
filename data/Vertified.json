@@ -2,11 +2,24 @@
     "id": 95464848,
     "name": "Vertified",
     "author": "Leahpvp",
-    "creators": ["Twentyfour"],
-    "verifier": "Leahpvp",
+    "creators": ["Zpds"],
+    "verifier": "Zpds",
     "verification": "https://youtu.be/FP7uODDJLz4?si=EVdMEJquytLkCHEt",
     "percentToQualify": 50,
     "password": "Not Copyable",
-    "records": [
+    "records": [ 
+
+            {
+                "user": "Leahpvp",
+                "link": "this fella just did it",
+                "percent": 100,
+                "fps": 10000
+            },
+            {
+                "user": "BonnieIsChill",
+                "link": "https://www.youtube.com/watch?v=7t-l7ctaZW8",
+                "percent": 100,
+                "fps": 240
+            }
     ]
 }
