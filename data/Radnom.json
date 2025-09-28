@@ -14,6 +14,12 @@
             "percent": 100,
             "fps": 480
 
-        }
+        },
+                                {
+            "user": "friedappel",
+            "link": "https://www.youtube.com/watch?v=t2rpoooiVRE",
+            "percent": 100,
+            "fps": 240
+                                }
     ]
 }

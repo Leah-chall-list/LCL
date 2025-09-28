@@ -1,9 +1,9 @@
 {
     "id": 96605248,
-    "name": "Chillange",
+    "name": "Chillaenge",
     "author": "Leahpvp",
-    "creators": ["Twentyfour"],
-    "verifier": "Leahpvp",
+    "creators": ["Zpds"],
+    "verifier": "Zpds",
     "verification": "https://youtu.be/FP7uODDJLz4?si=EVdMEJquytLkCHEt",
     "percentToQualify": 56,
     "password": "Not Copyable",
@@ -11,6 +11,12 @@
         {
                 "user": "BonnieIsChill",
                 "link": "https://www.youtube.com/watch?v=7t-l7ctaZW8",
+                "percent": 100,
+                "fps": 240
+            },
+            {
+                "user": "friedappel",
+                "link": "https://www.youtube.com/watch?v=8C4sVLsVNGM",
                 "percent": 100,
                 "fps": 240
             }
