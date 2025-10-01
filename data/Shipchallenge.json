@@ -8,5 +8,12 @@
     "percentToQualify": 55,
     "password": "Not Copyable",
     "records": [
+            {
+            "user": "Moars",
+            "link": "https://youtu.be/7t-l7ctaZW8",
+            "percent": 64,
+            "fps": 240
+
+        }
     ]
 }

@@ -8,6 +8,11 @@
     "percentToQualify": 40,
     "password": "Not Copyable",
     "records": [              
-
+                {
+            "user": "Moars",
+            "link": "https://medal.tv/games/geometry-dash/clips/ldbyUKWR3StnI-LKZ?invite=cr-MSxWVmosNDU0MDg0NDY5&v=19",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }
