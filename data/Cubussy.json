@@ -8,5 +8,12 @@
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
+                        {
+            "user": "Chillgotfried",
+            "link": "https://youtu.be/I1fdW8Muvbw",
+            "percent": 100,
+            "fps": 240
+
+        }
     ]
 }
