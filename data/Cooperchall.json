@@ -1,9 +1,9 @@
 {
     "id": 94184237,
     "name": "Cooperpiercane challenge",
-    "author": "Leahpvp",
-    "creators": ["Leahpvp"],
-    "verifier": "Leahpvp",
+    "author": "Zpds",
+    "creators": ["Zpds"],
+    "verifier": "Zpds",
     "verification": "https://youtu.be/_CE9OZUnsno",
     "percentToQualify": 50,
     "password": "Not Copyable",
@@ -13,6 +13,13 @@
             "link": "https://youtu.be/FVQwckW0iCE?si=NUeCg_DICkySM0W6",
             "percent": 100,
             "fps": 480
+
+        },
+                                    {
+            "user": "Leahpvp",
+            "link": "https://youtu.be/1WaqPtIfxas",
+            "percent": 100,
+            "fps": 240
 
         }
     ]

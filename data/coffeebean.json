@@ -1,0 +1,18 @@
+{
+    "id": 127377578,
+    "name": "Coffee bean",
+    "author": "Zpds",
+    "creators": ["Zpds"],
+    "verifier": "Zpds",
+    "verification": "https://youtu.be/f0CGe2dNV-s",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+                "user": "Leahpvp",
+                "link": "https://youtu.be/f0CGe2dNV-s",
+                "percent": 100,
+                "fps": 240
+            }
+    ]
+}

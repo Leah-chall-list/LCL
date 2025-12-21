@@ -1,7 +1,7 @@
 {
     "id": 93232416,
     "name": "Random",
-    "author": "Leahpvp",
+    "author": "Zpds",
     "creators": ["Zpds"],
     "verifier": "Zpds",
     "verification": "https://youtu.be/1YEhDJZ5nVQ",
@@ -26,6 +26,13 @@
             "link": "https://medal.tv/games/geometry-dash/clips/kZOM2d9qa8YemMQOc?invite=cr-MSxWckYsMzcyMTExMTAx",
             "percent": 100,
             "fps": 80
+
+        },
+                                    {
+            "user": "Leahpvp",
+            "link": "https://youtu.be/1WaqPtIfxas",
+            "percent": 100,
+            "fps": 240
 
         }
     ]
