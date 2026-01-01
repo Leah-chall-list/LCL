@@ -8,6 +8,12 @@
     "percentToQualify": 49,
     "password": "Not Copyable",
     "records": [
+                                            {
+            "user": "Onalo",
+            "link": "",
+            "percent": 6,
+            "fps": 240
 
+        }
     ]
 }
