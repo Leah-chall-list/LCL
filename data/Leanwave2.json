@@ -27,6 +27,12 @@
             "percent": 100,
             "fps": 80
 
-        }
+        },
+                {
+                "user": "ChillGotFried",
+                "link": "https://www.youtube.com/watch?v=7t-l7ctaZW8",
+                "percent": 100,
+                "fps": 240
+            }
     ]
 }
