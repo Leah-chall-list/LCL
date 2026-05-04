@@ -1,0 +1,18 @@
+{
+    "id": 139635031,
+    "name": "Whoops a top 1",
+    "author": "Leahpvp",
+    "creators": ["Leahpvp"],
+    "verifier": "Leahpvp",
+    "verification": "https://youtu.be/jObifOUU8cs",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [      
+        {
+            "user": "qevryx",
+            "link": "https://youtu.be/jObifOUU8cs",
+            "percent": 100,
+            "fps": 240
+        }     
+    ]
+}
