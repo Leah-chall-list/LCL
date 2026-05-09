@@ -8,5 +8,12 @@
     "percentToQualify": 0,
     "password": "Not Copyable",
     "records": [
+                                                    {
+            "user": "Leahmobile",
+            "link": "https://youtu.be/HnXKWvdS0sI?t=42",
+            "percent": 100,
+            "fps": 60
+
+        }
     ]
 }
