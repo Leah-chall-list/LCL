@@ -14,4 +14,4 @@ jobs:
         with:
           args: |
             **${{ github.actor }}** pushed to **${{ github.repository }}**
-              github.event.commits.*.message
+            run: echo "The message is: ${{ github.event.head_commit.message }}"
