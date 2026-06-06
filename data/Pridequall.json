@@ -1,0 +1,19 @@
+{
+    "id": 141942544,
+    "name": "Pride Jumps",
+    "author": "Leahpvp",
+    "creators": ["Leahpvp"],
+    "verifier": "Mobileleah",
+    "verification": "https://www.youtube.com/watch?v=La4IywzLtl8",
+    "percentToQualify": 0,
+    "password": "Not Copyable",
+    "records": [
+                                    {
+            "user": "Leahpvp",
+            "link": "https://youtu.be/1WaqPtIfxas",
+            "percent": 100,
+            "fps": 240
+
+        }
+    ]
+}
