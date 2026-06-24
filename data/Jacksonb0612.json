@@ -8,5 +8,11 @@
     "percentToQualify": 43,
     "password": "Not Copyable",
     "records": [
+                            {
+                "user": "Leahpvp",
+                "link": "https://www.youtube.com/watch?v=xTgWMtmOkvs",
+                "percent": 73,
+                "fps": 240
+                    }
     ]
 }
