@@ -8,5 +8,11 @@
     "percentToQualify": 78,
     "password": "Not Copyable",
     "records": [
+                {
+            "user": "Moarsmobile",
+            "link": "https://www.youtube.com/watch?v=wQIiscluywA",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }
